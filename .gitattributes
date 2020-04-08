@@ -1,0 +1,3 @@
+# Git Attribute
+*.jpg diff=exif
+
