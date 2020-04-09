@@ -1,3 +1,5 @@
-# Git Attribute
-*.jpg diff=exif
+# Git Attributes
+*.jpg diff=exit
+.* export-ignore
+tests export-ignore
 
